@@ -6,25 +6,24 @@
 ## 🔧 Technologies and Tools
 
 ### Programming Languages: 
-- **TypeScript**
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **C++**
-- **C#**
-- **SQL**
-
+- **TypeScript** 🚀
+- **HTML** 🌐
+- **CSS** 🎨
+- **JavaScript** 💻
+- **C++** 🔄
+- **C#** 🌐
+- **SQL** 🗃️
 
 ### Frameworks and Tools: 
-- **React**
-- **Next.Js**
-- **TailwindCSS**
-- **SCSS**
-- **Styled Components**
-- **Visual Studio Code**
-- **Visual Studio**
-- **Unity**
-- **Git**
+- **React** ⚛️
+- **Next.Js** 🚀
+- **TailwindCSS** 🌈
+- **SCSS** 🎨
+- **Styled Components** 💅
+- **Visual Studio Code** 💻
+- **Visual Studio** 🌐
+- **Unity** 🎮
+- **Git** 🔄
 
 ## My Stats
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcGonzalezMoratona&layout=compact&theme=radical)
@@ -37,19 +36,4 @@
 [MaGoLand Blog](https://www.magoland.vercel.app)
 
 ## 📫 How to Reach Me
-- [Email](marcgonzalezmoratona@gmail.com)
-
-<!--
-**MarcGonzalezMoratona/MarcGonzalezMoratona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Email](mailto:marcgonzalezmoratona@gmail.com)
