@@ -25,15 +25,15 @@
 - **Unity** 🎮
 - **Git** 🔄
 
-## My Stats
+## 📊 My Stats
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcGonzalezMoratona&layout=compact&theme=radical)
 
 **Note:** Language % is not a representation of my skills.
 
 ## 🌱 My Projects
-[Starfall Rebellion](https://www.starfall-rebellion.vercel.app)
-[Horizons Games](https://www.horizons-games.vercel.app)
-[MaGoLand Blog](https://www.magoland.vercel.app)
+- [Starfall Rebellion](https://www.starfall-rebellion.vercel.app)
+- [Horizons Games](https://www.horizons-games.vercel.app)
+- [MaGoLand Blog](https://www.magoland.vercel.app)
 
 ## 📫 How to Reach Me
 - [Email](mailto:marcgonzalezmoratona@gmail.com)
