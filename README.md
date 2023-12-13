@@ -20,6 +20,7 @@
 - **TailwindCSS** 🌈
 - **SCSS** 🎨
 - **Styled Components** 💅
+- **Storybook**🎨
 - **Visual Studio Code** 💻
 - **Visual Studio** 🌐
 - **Unity** 🎮
