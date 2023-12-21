@@ -7,20 +7,24 @@
 
 ### Programming Languages: 
 - **TypeScript** 🚀
-- **HTML** 🌐
-- **CSS** 🎨
 - **JavaScript** 💻
 - **C++** 🔄
 - **C#** 🌐
 - **SQL** 🗃️
 
-### Frameworks and Tools: 
+### Markup and Styling:
+- **HTML** 🌐
+- **CSS** 🎨
+- **SCSS** 🎨
+
+### Frameworks and Libraries: 
 - **React** ⚛️
 - **Next.Js** 🚀
 - **TailwindCSS** 🌈
-- **SCSS** 🎨
 - **Styled Components** 💅
-- **Storybook**🎨
+- **Storybook** 🎨
+
+### Development Tools:
 - **Visual Studio Code** 💻
 - **Visual Studio** 🌐
 - **Unity** 🎮
