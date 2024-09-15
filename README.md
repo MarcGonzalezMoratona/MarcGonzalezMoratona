@@ -3,7 +3,7 @@
 
 # Hi! I'm Marc, a passionated Software Engineer specialized in Web Development based in Barcelona 📍
 
-## 🔧 Technologies and Tools
+## 🔧 Main Technologies and Tools
 
 ### Programming Languages: 
 - **TypeScript** 🚀
@@ -16,19 +16,57 @@
 - **HTML** 🌐
 - **CSS** 🎨
 - **SCSS** 🎨
+- **TailwindCSS** 🌈
+- **Styled Components** 💅
 
 ### Frameworks and Libraries: 
 - **React** ⚛️
 - **Next.Js** 🚀
-- **TailwindCSS** 🌈
-- **Styled Components** 💅
+- **Node.js** 🌿
+- **GraphQL** 🔗
 - **Storybook** 🎨
+- **Electron** ⚡
+
+### Version Control Systems
+- **GitHub** 🐙
+- **BitBucket** 🧰
+- **GitLab** 🦊
+
+### Project Management & Communication:
+- **Jira** 📋
+- **Trello** 📌
+- **Redmine** 📝
+
+### Testing:
+- **Jest** 🧪 
+- **Cypress** 🌲
+- **Playwright** 🎭
+
+### Databases:
+- **PostgreSQL** 🐘
+
+### DevOps: 
+- **CI/CD Pipelines** 🚀
+- **Jenkins** 🧩
+- **GitLab CI** 🦊
+
+### Security:
+- **OAuth2** 🔐
+- **JWT** 📜
 
 ### Development Tools:
 - **Visual Studio Code** 💻
 - **Visual Studio** 🌐
 - **Unity** 🎮
 - **Git** 🔄
+- **Docker** 🐳
+- **Android Studio** 🤖
+- **Postman** 📫
+
+### Other Tools:
+- **Figma** 🎨
+- **Slack** 💬
+- **Google Search Console** 🔍
 
 ## 📊 My Stats
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcGonzalezMoratona&layout=compact&theme=radical)
